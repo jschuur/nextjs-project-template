@@ -3,6 +3,7 @@ export default function Home() {
     <main className='max-w-4xl'>
       <div>
         <h1 className='text-2xl'>Hello, Joost!</h1>
+        {/* cSpell:disable */}
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et libero ut metus rhoncus
           efficitur. Aenean congue leo a quam iaculis tempor. Aliquam erat volutpat. Ut elementum
@@ -33,6 +34,7 @@ export default function Home() {
           Phasellus id nibh pharetra, dapibus erat vel, finibus ipsum. Fusce convallis augue et enim
           eleifend vehicula. Donec metus nisi, tincidunt nec odio ac, auctor luctus diam.
         </p>
+        {/* cSpell:enable */}
       </div>
     </main>
   );
